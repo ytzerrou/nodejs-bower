@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-bower",
+  "description": "this is a nodejs and bower demo",
+  "main": "",
+  "authors": [
+    "ytzerrou"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "nodejs",
+    "bower"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "d3": "^4.13.0",
+    "jquery": "^3.3.1"
+  }
+}
